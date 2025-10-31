@@ -2,8 +2,12 @@
 
 Coffee is considered to be important for computer scientists.
 
-## Sort of coffee
+## Sorts of coffee
 
-## History of cofee
+## History of coffee
 
 ## Recipes
+
+- espresso
+- americano
+- latte
