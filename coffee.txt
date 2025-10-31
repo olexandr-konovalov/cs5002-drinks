@@ -11,3 +11,5 @@ Coffee is considered to be important for computer scientists.
 - espresso
 - americano
 - latte
+- lungo
+- flat white
