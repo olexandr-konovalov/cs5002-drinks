@@ -11,8 +11,10 @@ Coffee is considered to be important for computer scientists.
 - americano
 - black coffee
 - chai latte
+- cortado
 - espresso
 - flat white
 - iced coffee
 - latte
 - lungo
+- macchiato
