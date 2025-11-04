@@ -8,11 +8,11 @@ Coffee is considered to be important for computer scientists.
 
 ## Recipes
 
-- espresso
 - americano
 - black coffee
-- iced coffee
 - chai latte
+- espresso
+- flat white
+- iced coffee
 - latte
 - lungo
-- flat white
