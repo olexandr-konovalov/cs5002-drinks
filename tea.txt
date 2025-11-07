@@ -2,7 +2,12 @@
 
 ## Another important drink is tea!
 
+I love a cup of tea in the evening.
+
 ### History
 
 ### Recipes
+- black tea
+- green tea
+- white tea
 
